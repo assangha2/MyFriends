@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyFriends</string>
+    <string name="hlp">Type name of your friend in field provided and click on your friends name to view details</string>
+    <string name="abt">This is an app to show details of your friends.</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_about">about</string>
+    <string name="data">Enter the Database Name</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_help">help</string>
+    <string name="title_activity_listview">listview</string>
+</resources>
